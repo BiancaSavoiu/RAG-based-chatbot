@@ -1,1 +1,3 @@
-# RAG-based-chatbot-thesis
+# RAG based chatbot in an ERP scenario
+
+This thesis explores the integration of retrieval-based and generative AI techniques to improve chatbot reliability. By leveraging a retrieval-augmented generation (RAG) framework, we enhance the chatbot’s ability to provide more accurate and contextually relevant answers. The research includes benchmarking different RAG pipelines on a synthetically generated evaluation set, demonstrating superior performance in factual accuracy and response coherence by tailoring the pipeline even with simple techniques on the task at hand, using the knowledge base od the private documentation, retrieval algorithms and optimization and accurate instructions to instruct the model, while balancing the different parts of the system.
